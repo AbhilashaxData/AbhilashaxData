@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi there, I'm Abhilasha Das! 👋</h1>
-<h3 align="center">🚀 Astro-Data Researcher |📚 Knowledge Explorer | 📊 Data Analyst</h3>
+<h3 align="center"> 🛰️ Space-Borne Informatics Aspirant |🌍 Planetary & Environmental Data Explorer |🌠 Geospatial Data Analyst</h3>
 
 ---
 
@@ -13,8 +13,8 @@ I am an **M.Sc. Data Science** postgraduate student at **St. Xavier's College (A
 
 My passion lies in "Deciphering the Earth's Radiance" with the use of **NASA EarthData**, **Google Earth Engine**, and computational tools to solve complex environmental and socio-economic problems.
 
-* 🌱 I’m currently conducting a longitudinal study of India's night lights using **NASA VIIRS** satellite data.
-* 🐍 My primary tools are **Python** for data handling and **SQL** for database management.
+* 🌱 I’m currently conducting a longitudinal study of India's night lights using **NASA VIIRS** satellite data to capture light pollution.
+* 🐍 My primary tools are **Python** for data handling, **R** for statistical computing and **SQL** for database management.
 * 💡 I aim to build independent research that provides dependable, data-driven insights into our changing planet.
 
 ---
@@ -46,11 +46,9 @@ My passion lies in "Deciphering the Earth's Radiance" with the use of **NASA Ear
 ---
 
 ### 📈 GitHub Activity
+<div align="center">
+  
+![Abhilasha's Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=AbhilashaxData&show_icons=true&theme=radical)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AbhilashaxData&show_icons=true&theme=radical" alt="Abhilasha's Stats" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhilashaxData&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbhilashaxData&layout=compact&theme=radical)
+</div>
